@@ -1,5 +1,6 @@
 # New Dawn Coalition Player Rulebook
 
+* TOC
 {:toc}
 
 # Beta Phase
