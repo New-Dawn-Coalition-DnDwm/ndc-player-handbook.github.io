@@ -307,7 +307,7 @@ Our XP system is customized, based on a number of games equal to your PC's profi
 
 When you level, load the barracks your PC is stored in and make all the changes yourself (such as new class features, HP increases, new spells, etc.). When you reach a new tier, an audit of your gold will occur. Feel free to ask staff for help regarding this. You won't be able to play until this is completed.
 
-||Tier||Character Levels||Games per level||
+|Tier|Character Levels|Games per level|
 |Initiate|2 - 4|3|
 |Adept|5 - 8|4|
 |Vanguard|9 - 12|5|
