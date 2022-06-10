@@ -1,5 +1,7 @@
 # New Dawn Coalition Player Rulebook
 
+{:toc}
+
 # Beta Phase
 
 The server is currently in beta, meaning sudden and wild changes to basically everything are possible. We're happy with most of what we have, but nothing is set in stone, and we're open to feedback on every part of the server.
